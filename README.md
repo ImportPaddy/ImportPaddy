@@ -7,13 +7,27 @@
 
 ### Excel
 
-
+Creating meaningful insights from raw data through the use of formulas, pivot tables and visualisations.
 
 ### Tableau
+
+Turning datasets into colourful, well presented visualisations.
+
 ### PowerBI
+
+Managing data in tables with relationships and producing in-depth visualisations.
+
 ### SQL
+
+
+
 ### Azure
+
+
+
 ### Python
+
+
 
 ---
 
