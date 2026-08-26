@@ -1,33 +1,79 @@
-# 👋 Hi, I'm Paddy
-📈 Aspiring data analyst
+<h1 align="center"> 
+  👋 Hi, I'm Paddy 
+</h1>
+
+<p align="center">
+  📈 I am an aspiring data analyst looking to... BACKGROUND
+</p>
 
 ---
 
-## Tools and Technologies
+<h2 align="center">
+  About Me
+</h2>
+<p align="center">
+  Text
+</p>
 
-### Excel
+<h2 align="center">
+  Tools and Technologies
+</h2>
 
-Creating meaningful insights from raw data through the use of formulas, pivot tables and visualisations.
+<h3 align="center"> 
+  Excel
+</h3>
+<p align="center">
+  Creating meaningful insights from raw data through the use of formulas, pivot tables and visualisations.
+</p>
 
-### Tableau
+<h3 align="center"> 
+  Tableau
+</h3>
+<p align="center">
+  Turning datasets into colourful, well presented visualisations, bringing business metrics to life.
+</p>
 
-Turning datasets into colourful, well presented visualisations.
+<h3 align="center"> 
+  PowerBI
+</h3>
+<p align="center">
+  Managing data in tables with relationships and producing in-depth visualisations.
+</p>
 
-### PowerBI
+<h3 align="center"> 
+  SQL
+</h3>
+<p align="center">
+  Gathering key data from relational databases using a variety of queries.
+</p>
 
-Managing data in tables with relationships and producing in-depth visualisations.
+<h3 align="center"> 
+  Azure
+</h3>
+<p align="center">
+  Accessing and manipulating big data via the cloud.
+</p>
 
-### SQL
+<h3 align="center"> 
+  Python
+</h3>
 
+<p align="center">
+  Using libraries to 
+</p>
 
+<h2 align="center"> 
+  My Projects
+</h2>
 
-### Azure
-
-
-
-### Python
-
-
+| Heading                                                    | Test |
+| ---                                                        | ---  |
+| [Excel](https://github.com/ImportPaddy/Excel-Projects)     | Test |
+| [Tableau](https://github.com/ImportPaddy/Tableau)          | Test |
+| [PowerBI](https://github.com/ImportPaddy/PowerBI-Projects) | Test |
+| [SQL](https://github.com/ImportPaddy/SQL-Projects)         | Test |
+| [Azure](https://github.com/ImportPaddy/Azure-Projects)     | Test |
+| [Python](https://github.com/ImportPaddy/Python-Projects)   | Test |
 
 ---
 
