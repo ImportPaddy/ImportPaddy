@@ -102,21 +102,15 @@
   My Projects
 </h2>
 
-| Project Repositories                                       | Description |
-| ---                                                        | ---  |
-| [Excel](https://github.com/ImportPaddy/Excel-Projects)     | I have gathered meaningful insights from raw data through the use of formulas, pivot tables and visualisations |
-| [Tableau](https://github.com/ImportPaddy/Tableau)          | Test |
-| [PowerBI](https://github.com/ImportPaddy/PowerBI-Projects) | Test |
-| [SQL](https://github.com/ImportPaddy/SQL-Projects)         | Test |
-| [Azure](https://github.com/ImportPaddy/Azure-Projects)     | Test |
-| [Python](https://github.com/ImportPaddy/Python-Projects)   | Test |
+| Project Repositories                                                             | Description |
+| ---                                                                              | ---  |
+| <p align="center">[Excel](https://github.com/ImportPaddy/Excel-Projects)</p>     | I have gathered meaningful insights from raw data through the use of formulas, pivot tables and visualisations. |
+| <p align="center">[Tableau](https://github.com/ImportPaddy/Tableau)</p>          | Test |
+| <p align="center">[PowerBI](https://github.com/ImportPaddy/PowerBI-Projects)</p> | Test |
+| <p align="center">[SQL](https://github.com/ImportPaddy/SQL-Projects)</p>         | Test |
+| <p align="center">[Azure](https://github.com/ImportPaddy/Azure-Projects)</p>     | Test |
+| <p align="center">[Python](https://github.com/ImportPaddy/Python-Projects)</p>   | Test |
 
-<table>
-  <tr>
-    <th>Project Repositories</th>
-    <th> Project Description</th>
-  </tr>
-</table>
 
 ---
 
