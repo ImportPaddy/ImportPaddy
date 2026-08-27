@@ -18,98 +18,34 @@
 
 
 <h2>
-  🧰 My Skills and Tools
+  🧰 Technical Skills
 </h2>
-<h3>
-  Skills
-</h3>
 <p>
-  <ul>
-  <li>Analytical mindset</li>
-  <li>Attention to detail</li>
-  <li>Critical thinking</li>
-  <li>Strong communication</li>
-  <li>Adaptability</li>
-  </ul>
-</p>
-<h3>
-  Tools
-</h3>
-<p>
-  <ul>
-    <li>Excel</li>
-    <li>Tableau</li>
-    <li>PowerBI</li>
-    <li>SQL</li>
-    <li>Supabase</li>
-    <li>Azure</li>
-    <li>Python</li>
-    <li>Google Colab</li>
-    <li>Visual Studio Code</li>
-    
-  </ul>
+    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height = "20">-->
+    Excel<br>
+    <!--<img src="https://b-new.be/wp-content/uploads/2020/07/TB.png" height = "20">-->
+    Tableau<br>
+    PowerBI<br>
+    SQL<br>
+    Supabase<br>
+    Azure<br>
+    Python<br>
+    Google Colab<br>
+    Visual Studio Code
 </p>
 
-<!-- Examples and explanations of each tool / technology I have learnt.  
-<h2 align="center">
-  Tools and Technologies
-</h2>
-
-<h3 align="center"> 
-  Excel
-</h3>
-<p align="center">
-  Creating meaningful insights from raw data through the use of formulas, pivot tables and visualisations.
-</p>
-
-<h3 align="center"> 
-  Tableau
-</h3>
-<p align="center">
-  Turning datasets into colourful, well presented visualisations, bringing business metrics to life.
-</p>
-
-<h3 align="center"> 
-  PowerBI
-</h3>
-<p align="center">
-  Cleaning, sorting and analysing data into structured tables to produce in-depth visualisations.
-</p>
-
-<h3 align="center"> 
-  SQL
-</h3>
-<p align="center">
-  Searching, retrieving, adding and removing data from relational databases using a variety of queries.
-</p>
-
-<h3 align="center"> 
-  Azure
-</h3>
-<p align="center">
-  Using cloud services to store, access and manipulate large amounts of data.
-</p>
-
-<h3 align="center"> 
-  Python
-</h3>
-<p align="center">
-  Writing efficient code to search, change, add and remove data from a dataset using built-in libraries.
-</p>
--->
-
-<h2 align="center"> 
-  My Projects
+<h2> 
+  📁 My Projects
 </h2>
 
 | Project Repositories                                                             | Description |
 | ---                                                                              | ---  |
-| <p align="center">[Excel](https://github.com/ImportPaddy/Excel-Projects)</p>     | I have gathered meaningful insights from raw data through the use of formulas, pivot tables and visualisations. |
-| <p align="center">[Tableau](https://github.com/ImportPaddy/Tableau)</p>          | Test |
-| <p align="center">[PowerBI](https://github.com/ImportPaddy/PowerBI-Projects)</p> | Test |
-| <p align="center">[SQL](https://github.com/ImportPaddy/SQL-Projects)</p>         | Test |
-| <p align="center">[Azure](https://github.com/ImportPaddy/Azure-Projects)</p>     | Test |
-| <p align="center">[Python](https://github.com/ImportPaddy/Python-Projects)</p>   | Test |
+| <p align="center">[Excel](https://github.com/ImportPaddy/Excel-Projects)</p>     | Gathered meaningful insights from raw data through the use of formulas, pivot tables and visualisations.        |
+| <p align="center">[Tableau](https://github.com/ImportPaddy/Tableau)</p>          | Created colourful and well-presented visuals from data sets to analyse patterns and trends.                     |
+| <p align="center">[PowerBI](https://github.com/ImportPaddy/PowerBI-Projects)</p> | Cleaned, sorted and structured data into tables to produce in-depth visualisations.                             |
+| <p align="center">[SQL](https://github.com/ImportPaddy/SQL-Projects)</p>         | Used a variety of queries to search, retrieve, add and remove data from relational databases.                   |
+| <p align="center">[Azure](https://github.com/ImportPaddy/Azure-Projects)</p>     | Learnt to store, access and manipulate large amounts of data from the cloud.                                    |
+| <p align="center">[Python](https://github.com/ImportPaddy/Python-Projects)</p>   | Accessed built-in libraries to write efficient code to search, change, add and remove data from a dataset.      |
 
 
 ---
@@ -118,7 +54,9 @@
   Find Me
 </h2>
 <p>
-  LinkedIn:
+  
+  [LinkedIn](https://www.linkedin.com/in/patrick-gittens/)
+
 </p>
 <!--
 - 🔭 I’m currently working on my portfolio with Leep Talent
