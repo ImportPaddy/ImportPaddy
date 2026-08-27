@@ -1,4 +1,3 @@
-<!-- align="center" -->
 <h1> 
   👋 Hi, I'm Paddy 
 </h1>
@@ -7,8 +6,6 @@
   I am an aspiring data analyst looking to take my background in IT and Computer Science to the next level. I have a vast knowledge of many areas on computing that gives me a steady foundation to build up a career in        data.
 </p>
 
----
-
 <h2>
   🗺️ Current Goals
 </h2>
@@ -16,22 +13,37 @@
   Currently I am refining my knowledge of areas in data, with a particular interest in coding solutions.
 </p>
 
-
 <h2>
   🧰 Technical Skills
 </h2>
+<h3>
+  📚Languages
+</h3>
 <p>
-    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height = "20">-->
-    Excel<br>
-    <!--<img src="https://b-new.be/wp-content/uploads/2020/07/TB.png" height = "20">-->
-    Tableau<br>
-    PowerBI<br>
-    SQL<br>
-    Supabase<br>
-    Azure<br>
-    Python<br>
-    Google Colab<br>
-    Visual Studio Code
+  Python<br>
+  SQL
+</p>
+<h3>
+  🗄️Environments
+</h3>
+<p>
+  Supabase<br>
+  Google Colab<br>
+  Visual Studio Code
+</p>
+<h3>
+  📈Visualisation & Data Analysis
+</h3>
+<p>
+  Excel<br>
+  Tableau<br>
+  PowerBI
+</p>
+<h3>
+  ☁️Cloud
+</h3>
+<p>
+    Azure
 </p>
 
 <h2> 
@@ -47,24 +59,12 @@
 | <p align="center">[Azure](https://github.com/ImportPaddy/Azure-Projects)</p>     | Learnt to store, access and manipulate large amounts of data from the cloud.                                    |
 | <p align="center">[Python](https://github.com/ImportPaddy/Python-Projects)</p>   | Accessed built-in libraries to write efficient code to search, change, add and remove data from a dataset.      |
 
-
----
-
 <h2>
-  Find Me
+  🌐 Find Me
 </h2>
 <p>
   
-  [LinkedIn](https://www.linkedin.com/in/patrick-gittens/)
+  [LinkedIn](https://www.linkedin.com/in/patrick-gittens/)<br>
+  [Tableau](https://public.tableau.com/app/profile/patrick.gittens7742/vizzes)
 
 </p>
-<!--
-- 🔭 I’m currently working on my portfolio with Leep Talent
-- 🌱 I’m currently learning skills and tools to help me move into a career in data
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
